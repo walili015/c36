@@ -11,7 +11,7 @@
     "unityInterstitial": "Interstitial_Android",
     "IMG1_URL": "https://c35.netlify.app/c35-1.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXX",
-    "modeads": true,
+    "modeads": false,
     "IMG2_URL": "https://c35.netlify.app/c35-1.png",
     "TEXT2_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
     "ratingActive": true
